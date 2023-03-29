@@ -1,0 +1,15 @@
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\bin\Debug\net6.0\Agenda.DAL.deps.json
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\bin\Debug\net6.0\Agenda.DAL.dll
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\bin\Debug\net6.0\Agenda.DAL.pdb
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\bin\Debug\net6.0\Agenda.Model.dll
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\bin\Debug\net6.0\Agenda.Model.pdb
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\Agenda.DAL.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\Agenda.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\Agenda.DAL.AssemblyInfoInputs.cache
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\Agenda.DAL.AssemblyInfo.cs
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\Agenda.DAL.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\Agenda.DAL.csproj.CopyComplete
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\Agenda.DAL.dll
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\refint\Agenda.DAL.dll
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\Agenda.DAL.pdb
+C:\Users\simao\source\repos\Agenda\Agenda.DAL\obj\Debug\net6.0\ref\Agenda.DAL.dll

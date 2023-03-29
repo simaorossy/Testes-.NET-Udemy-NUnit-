@@ -1,0 +1,12 @@
+C:\Users\simao\source\repos\Agenda\Agenda.Model\bin\Release\net6.0\Agenda.Model.deps.json
+C:\Users\simao\source\repos\Agenda\Agenda.Model\bin\Release\net6.0\Agenda.Model.dll
+C:\Users\simao\source\repos\Agenda\Agenda.Model\bin\Release\net6.0\Agenda.Model.pdb
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\Agenda.Model.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\Agenda.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\Agenda.Model.AssemblyInfoInputs.cache
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\Agenda.Model.AssemblyInfo.cs
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\Agenda.Model.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\Agenda.Model.dll
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\refint\Agenda.Model.dll
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\Agenda.Model.pdb
+C:\Users\simao\source\repos\Agenda\Agenda.Model\obj\Release\net6.0\ref\Agenda.Model.dll
